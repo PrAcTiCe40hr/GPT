@@ -34,10 +34,14 @@ GPT-based apps | Lec 6: Microsoft products (New Bing & Copilot) \& open-source a
 Other LLMs | Lec 7: Bard (Google), LLaMA (Meta) \& Ernie (Baidu) | ** 1-1 meeting to discuss the project progress**<br>- Python project: Wrap-up codes \& Debug<br> - Report project: Half-done essay submission 
 Optional | * Poster/presentation: 5-10 mins to show your work | Submit your name by the end of Lec 7
 
-### Python Project Descriptions (TBA)
-
+### Python Project Descriptions
+- Choice 1: Using GPT-like models/apps to develop your own app (Advanced). Examples: [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web), [ChatBox](https://github.com/Bin-Huang/chatbox), [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
+- Choice 2: Use [Chatterbot] (https://github.com/gunthercox/ChatterBot) to design your own chatbot
+- Any other ideas are welcome
 
 ### Comparative Study Project Descriptions (TBA)
+- Examine the ability of GPT-like models/products in a selected fields. Analyze \& compare their performances. Explore their advantages \& limitations. Foresee the path to AGI.
+- Any other ideas are welcome
 
 
 ## Potential research/software development collaboration oppotunity
