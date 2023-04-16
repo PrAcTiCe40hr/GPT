@@ -36,7 +36,7 @@ Optional | * Poster/presentation: 5-10 mins to show your work | Submit your name
 
 ### Python Project Descriptions
 - Choice 1: Using GPT-like models/apps to develop your own app (Advanced). Examples: [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web), [ChatBox](https://github.com/Bin-Huang/chatbox), [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
-- Choice 2: Use [Chatterbot] (https://github.com/gunthercox/ChatterBot) to design your own chatbot
+- Choice 2: Use [Chatterbot](https://github.com/gunthercox/ChatterBot) to design your own chatbot
 - Any other ideas are welcome
 
 ### Comparative Study Project Descriptions (TBA)
