@@ -7,7 +7,10 @@ If you have interests for this course, please chat with [PalmDrive](https://palm
 By reading literature, using online, analyzing and comparing different ChatGPT-like products, you can understand the hottest and most commercially valuable artificial intelligence direction. Through two different characteristic projects (report & python), students with different programming foundations can equip with (1) some knowledge about NLP, LLM and their applications and/or (2) Apps based on ChatGPT-like products.
 
 ## Instructor
-Dr. Lixue Cheng (Sherry). Research interests: AI4Sci(科学人工智能）Google scholar: [Link](https://scholar.google.com/citations?hl=en&user=hy_oauIAAAAJ&view_op=list_works)
+- Dr. Sherry Lixue Cheng (Full-time, Lecture + all projects). Research interests: AI4Sci(科学人工智能). Google scholar: [Link](https://scholar.google.com/citations?hl=en&user=hy_oauIAAAAJ&view_op=list_works)
+
+
+- Dr. Jiace Sun (Part-time, only assist python projects) Research interests: Quantum computing, AI4Sci. Google scholar: [Link](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
 
 
 ## Prerequisite
@@ -19,7 +22,7 @@ A ChatGPT account: Register at https://chat.openai.com/ (Note: OpenAI does not p
 
 
 ## 2023 Summer
-Previous year archieved course pages: None
+Previous year archived course pages: None
 
 
 ### Tentative Syllabus
@@ -32,7 +35,7 @@ Other LLMs | Lec 7: Bard (Google), LLaMA (Meta) \& Ernie (Baidu) |
 
 
 
-### Python Project Descriptions 
+### Python Project Descriptions (TBA)
 
 
-### Comparative Study Project Descriptions
+### Comparative Study Project Descriptions (TBA)
