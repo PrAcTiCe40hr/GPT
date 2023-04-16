@@ -11,6 +11,8 @@ Dr. Lixue Cheng (Sherry). Research interests: AI4Sci(科学人工智能）Google
 
 
 ## Prerequisite
+A ChatGPT account: Register at https://chat.openai.com/ (Note: OpenAI does not provide serivces in the Chinese area, you have to have an non-Chinese IP to access ChatGPT \& other OpenAI products)
+
 * Report project: Basic understanding of scientific writing \& comparative studies \& data analysis.
 
 * Python project: Expertise in Python (need to take a coding test) \& basic understanding of machine learning.
@@ -26,7 +28,7 @@ Topic | Content | Homework/Discussion
 Introduction | Lec 1: Introduction to artificial intelligence (AI) and Deep Learning (DL)<br>Lec 2: Introduction to natural language processing (NLP) & large language model (LLM) | - Python project: Setup GitHub page & create a hello-world repo<br> - Report project: Work on a shot survey on AGI (artificial general intelligence)
 GPT \& ChatGPT | Lec 3:  <br> Lec 4: <br> Lec 5: |  
 GPT-based apps | Lec 6: Microsoft products (New Bing & Copilot) \& open-source applications
-Other LLMs | Lec 7: Bard (Google), LLaMA (Meta), and Ernie (Baidu) |
+Other LLMs | Lec 7: Bard (Google), LLaMA (Meta) \& Ernie (Baidu) |
 
 
 
