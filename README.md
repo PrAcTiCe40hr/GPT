@@ -39,7 +39,7 @@ Optional | * Poster/presentation: 5-10 mins to show your work | Submit your name
 - Choice 2: Use [Chatterbot](https://github.com/gunthercox/ChatterBot) to design your own chatbot
 - Any other ideas are welcome
 
-### Comparative Study Project Descriptions (TBA)
+### Comparative Study Project Descriptions
 - Examine the ability of GPT-like models/products in a selected fields. Analyze \& compare their performances. Explore their advantages \& limitations. Foresee the path to AGI.
 - Any other ideas are welcome
 
