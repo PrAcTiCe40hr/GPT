@@ -10,7 +10,7 @@ By reading literature, using online, analyzing and comparing different ChatGPT-l
 - Dr. Sherry Lixue Cheng (Full-time, Lecture + all projects). Research interests: AI4Sci(科学人工智能). Google scholar: [Link](https://scholar.google.com/citations?hl=en&user=hy_oauIAAAAJ&view_op=list_works)
 
 
-- Dr. Jiace Sun (Part-time, only assist python projects) Research interests: Quantum computing, AI4Sci. Google scholar: [Link](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
+- Jiace Sun (Part-time, only assist python projects) Research interests: Quantum computing, AI4Sci. Google scholar: [Link](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
 
 
 ## Prerequisite
@@ -42,3 +42,4 @@ Optional | * Poster/presentation: 5-10 mins to show your work | Submit your name
 
 ## Potential research/software development collaboration oppotunity
 
+For the students who complete both poster/presentation and report/python projects, it is possible to work together with the instructors on developmenst of open-source software based on LLM or AI4Sci research.
