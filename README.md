@@ -11,7 +11,7 @@ By reading literature, using online, analyzing and comparing different ChatGPT-l
 - Dr. [Sherry Lixue Cheng](https://sherrylixuecheng.github.io/) (Full-time, Lecture + all projects). Research interests: AI4Sci(科学人工智能). Google scholar: [Link](https://scholar.google.com/citations?hl=en&user=hy_oauIAAAAJ&view_op=list_works)
 
 
-- [Jiace Sun](https://susyustc.github.io/) (Part-time, only assist python projects) Research interests: Quantum computing, AI4Sci. Google scholar: [Link](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
+- [Jiace Sun](https://susyustc.github.io/) (Part-time, only assist python projects). Research interests: Quantum computing, AI4Sci. Google scholar: [Link](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
 
 
 ## Prerequisite

@@ -1,23 +1,23 @@
 # 面向高中生的GPT和LLM入门课程
-这是 PalmDrive ** Introduction to GPT and LLM for High School Students 的课程页面**
+这是 PalmDrive **Introduction to GPT and LLM for High School Students** 的课程页面
 如果您对本课程的具体内容感兴趣，欢迎咨询 [PalmDrive](https://palmdrive.cn)
 
 <p align="center"> <a href="README.md">English</a> |  简体中文 </p>
 
 ## 概述
-通过阅读文献、在线使用、分析比较不同的ChatGPT-like产品，您可以了解最热门、最具商业价值的人工智能方向。通过两个不同特色的项目（report & python），不同编程基础的同学可以装备（1）一些NLP、LLM及其应用方面的知识和/或（2）基于ChatGPT类产品的App。
+通过阅读文献、在线使用、分析比较不同的ChatGPT-like产品，您可以了解最热门、最具商业价值的人工智能方向。通过两个不同特色的项目（report \& python），不同编程基础的同学可以装备（1）一些NLP、LLM及其应用方面的知识和/或（2）基于ChatGPT类产品的App。
 
 ## 导师
 - [Sherry Lixue Cheng](https://sherrylixuecheng.github.io/)博士（全职，讲座+所有项目）。研究兴趣：AI4Sci（科学人工智能）。谷歌学者：[链接](https://scholar.google.com/citations?hl=en&user=hy_oauIAAAAJ&view_op=list_works)
 
 
-- [Jiace Sun](https://susyustc.github.io/) (兼职，仅协助python项目) 研究兴趣：量子计算，AI4Sci。谷歌学者：[链接](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
+- [Jiace Sun](https://susyustc.github.io/) (兼职，仅协助python项目). 研究兴趣：量子计算，AI4Sci。谷歌学者：[链接](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
 
 
-##先决条件
+## 先决要求
 ChatGPT账号：在https://chat.openai.com/ 注册（注：OpenAI不提供中文区服务，需要非中文IP才能访问ChatGPT\&其他OpenAI产品）
 
-* 报告项目：对科学写作 \& 比较研究 \& 数据分析的基本理解。
+* Report 项目：对科学写作 \& 比较研究 \& 数据分析的基本理解。
 
 * Python 项目：精通 Python（需要参加代码测试）\& 对机器学习有基本了解。
 
