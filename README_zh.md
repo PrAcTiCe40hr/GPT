@@ -36,7 +36,7 @@ GPT \&聊天GPT | 第 3 讲：OpenAI、GPT \& ChatGPT 简介<br>第 4 讲：如�
 可选 | * 海报/演示文稿：5-10 分钟展示您的作品 | 在第 7 课结束前提交您的姓名
 
 ### Python 项目说明
-- 选择 1：使用类似 GPT 的模型/应用程序开发您自己的应用程序（高级）。示例：[ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)、[ChatBox](https://github.com/Bin-Huang/chatbox)、[ChatGPT Academic](https //github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
+- 选择 1：使用类似 GPT 的模型/应用程序开发您自己的应用程序（高级）。示例：[ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)、[ChatBox](https://github.com/Bin-Huang/chatbox)、[ChatGPT Academic](https//github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
 - 选择 2：使用 [Chatterbot](https://github.com/gunthercox/ChatterBot) 设计您自己的聊天机器人
 - 欢迎任何其他想法
 
