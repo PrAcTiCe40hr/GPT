@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="README.md">English</a> |  简体中文 </p>
 
-＃＃ 概述
+## 概述
 通过阅读文献、在线使用、分析比较不同的ChatGPT-like产品，您可以了解最热门、最具商业价值的人工智能方向。通过两个不同特色的项目（report & python），不同编程基础的同学可以装备（1）一些NLP、LLM及其应用方面的知识和/或（2）基于ChatGPT类产品的App。
 
 ## 导师
