@@ -11,7 +11,7 @@
 - [Sherry Lixue Cheng](https://sherrylixuecheng.github.io/)博士（全职，讲座+所有项目）。研究兴趣：AI4Sci（科学人工智能）。谷歌学者：[链接](https://scholar.google.com/citations?hl=en&user=hy_oauIAAAAJ&view_op=list_works)
 
 
-- [Jiace Sun](https://susyustc.github.io/) (兼职，仅协助python项目). 研究兴趣：量子计算，AI4Sci。谷歌学者：[链接](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
+- [Jiace Sun](https://susyustc.github.io/) (兼职，仅协助python项目)。 研究兴趣：量子计算，AI4Sci。谷歌学者：[链接](https://scholar.google.com/citations?user=Glz95w4AAAAJ&hl=en)
 
 
 ## 先决要求
@@ -29,10 +29,10 @@ ChatGPT账号：在https://chat.openai.com/ 注册（注：OpenAI不提供中文
 ### 暂定教学大纲
 话题 | 内容 | 家庭作业/讨论
 :-- | :--: | :--: |
-简介 | 第一讲：人工智能 (AI) 和深度学习 (DL) 简介<br>第二讲：自然语言处理 (NLP) 和大型语言模型 (LLM) 简介 | - Python 项目：设置 GitHub 页面并创建一个 hello-world 存储库<br> - 报告项目：在 AGI（通用人工智能）上进行一次调查
-GPT \& 聊天GPT | 第 3 讲：OpenAI、GPT \& ChatGPT 简介<br>第 4 讲：如何更好地使用 ChatGPT 实现不同目的：分步演示\& 提示<br>第 5 讲：GPT-3 的能力和局限性，3.5 \& 4: 论文阅读 \& Analsyese | 使用带有一系列提示的 ChatGPT 生成论文摘要<br>** 1-1 会议讨论个人项目**<br>论文阅读：[Sparks of AGI](https://arxiv.org/abs/2303.12712)， [GPT3](https://arxiv.org/abs/2005.14165), [数学能力](https://arxiv.org/abs/2301.13867), [翻译能力](https://arxiv.org/abs/ 2301.08745), [Integrity \& Ethics](https://arxiv.org/abs/2212.09292), [其他大模型](https://arxiv.org/abs/2301.04655)
-基于 GPT 的应用 | 第 6 课：Microsoft 产品（New Bing 和 Copilot）\& 开源应用程序 | - Python项目：将你的项目当前进度推送到GitHub<br> - 报告项目：编写 \& 分析部分选定的GPT实验（参考AGI论文Sparks风格）
-其他法学硕士 | Lec 7: Bard (谷歌), LLaMA (Meta) \& Ernie (百度) | ** 1-1 meeting to discuss the project progress**<br>- Python project: Wrap-up codes \& Debug<br> - Report project: Half-done essay 提交
+简介 | 第1讲：人工智能 (AI) 和深度学习 (DL) 简介<br>第2讲：自然语言处理 (NLP) 和大型语言模型 (LLM) 简介 | - Python 项目：设置 GitHub 页面并创建一个 hello-world 存储库<br> - 报告项目：在 AGI（通用人工智能）上进行一次调查
+GPT \& 聊天GPT | 第3讲：OpenAI、GPT \& ChatGPT 简介<br>第4讲：如何更好地使用 ChatGPT 实现不同目的：分步演示\& 提示<br>第5讲：GPT-3 的能力和局限性，3.5 \& 4: 论文阅读 \& Analsyese | 使用带有一系列提示的 ChatGPT 生成论文摘要<br>** 1-1 会议讨论个人项目**<br>论文阅读：[Sparks of AGI](https://arxiv.org/abs/2303.12712)， [GPT3](https://arxiv.org/abs/2005.14165), [数学能力](https://arxiv.org/abs/2301.13867), [翻译能力](https://arxiv.org/abs/ 2301.08745), [Integrity \& Ethics](https://arxiv.org/abs/2212.09292), [其他大模型](https://arxiv.org/abs/2301.04655)
+基于 GPT 的应用 | 第6讲：Microsoft 产品（New Bing 和 Copilot）\& 开源应用程序 | - Python项目：将你的项目当前进度推送到GitHub<br> - 报告项目：编写 \& 分析部分选定的GPT实验（参考AGI论文Sparks风格）
+其他大语言模型 | 第7讲: Bard (谷歌), LLaMA (Meta) \& Ernie (百度) | ** 1-1 会议讨论个人项目**<br>- Python 项目: 整理代码 \& Debug<br> - Report 项目: 阶段性文档提交
 可选 | * 海报/演示文稿：5-10 分钟展示您的作品 | 在第 7 课结束前提交您的姓名
 
 ### Python 项目说明
