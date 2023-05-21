@@ -25,6 +25,8 @@ A ChatGPT account: Register at https://chat.openai.com/ (Note: OpenAI does not p
 ## 2023 Summer
 Previous year archived course pages: None
 
+## Preclass session
+Introduction to basic usage of GitHub
 
 ### Tentative Syllabus
 Topic | Content | Homework/Discussion
