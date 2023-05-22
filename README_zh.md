@@ -30,8 +30,8 @@ GitHub基本使用介绍
 ### 暂定教学大纲
 话题 | 内容 | 家庭作业/讨论
 :-- | :--: | :--: |
-简介 | 第1讲：人工智能 (AI) 和深度学习 (DL) 简介<br>第2.1讲：自然语言处理 (NLP) 和不同公司的大型语言模型 (LLM) 简介[GPT4 (OpenAI), Bard (谷歌), LLaMA (Meta) \& Ernie (百度)] <br>第2.2讲：ChatBot简介 | - Python 项目：设置 GitHub 页面并创建一个 hello-world 存储库<br> - 报告项目：在 AGI（通用人工智能）上进行一次调查
-GPT \& 聊天GPT | 第3讲：OpenAI、GPT \& ChatGPT 简介<br>第4.1讲：如何更好地使用 ChatGPT 实现不同目的：分步演示\& 提示<br>第4.2讲：GPT-3 的能力和局限性，3.5 \& 4: 论文阅读 \& Analsyese | 使用带有一系列提示的 ChatGPT 生成论文摘要<br>** 1-1 会议讨论个人项目**<br>论文阅读：[Sparks of AGI](https://arxiv.org/abs/2303.12712)， [GPT3](https://arxiv.org/abs/2005.14165), [数学能力](https://arxiv.org/abs/2301.13867), [翻译能力](https://arxiv.org/abs/2301.08745), [Integrity \& Ethics](https://arxiv.org/abs/2212.09292), [其他大模型](https://arxiv.org/abs/2301.04655)
+简介 | 第1讲：人工智能 (AI) 和深度学习 (DL) 简介<br>第2讲：自然语言处理 (NLP) 和不同公司的大型语言模型 (LLM) 简介[GPT4 (OpenAI), Bard (谷歌), LLaMA (Meta) \& Ernie (百度)]| - Python 项目：设置 GitHub 页面并创建一个 hello-world 存储库<br> - 报告项目：在 AGI（通用人工智能）上进行一次调查
+GPT \& 聊天GPT | 第3讲：OpenAI、GPT、ChatBot、\& ChatGPT 简介<br>第4.1讲：如何更好地使用 ChatGPT 实现不同目的：分步演示\& 提示<br>第4.2讲：GPT-3 的能力和局限性，3.5 \& 4: 论文阅读 \& Analsyese | 使用带有一系列提示的 ChatGPT 生成论文摘要<br>** 1-1 会议讨论个人项目**<br>论文阅读：[Sparks of AGI](https://arxiv.org/abs/2303.12712)， [GPT3](https://arxiv.org/abs/2005.14165), [数学能力](https://arxiv.org/abs/2301.13867), [翻译能力](https://arxiv.org/abs/2301.08745), [Integrity \& Ethics](https://arxiv.org/abs/2212.09292), [其他大模型](https://arxiv.org/abs/2301.04655)
 基于 GPT 的应用 | 第5讲：GitHub的使用规范与如何编写开源软件 <br> 第6讲：Microsoft 产品（New Bing 和 Copilot）\& 开源应用程序 | - Python项目：将你的项目当前进度推送到GitHub<br> - 报告项目：编写 \& 分析部分选定的GPT实验（参考MSR论文Sparks of AI）
 其他大语言模型 | 第7讲: 当前 LLM 的局限性和 AGI 的未来方向 | ** 1-1 会议讨论个人项目**<br>- Python 项目: 整理代码 \& Debug<br> - Report 项目: 阶段性文档提交
 可选 | * 海报/演示文稿：5-10 分钟展示您的作品 | 在第 7 课结束前提交您的姓名
