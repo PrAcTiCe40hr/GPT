@@ -36,6 +36,9 @@ GPT-based apps | Lec 5: GitHub usage guidelines and coding practices for open-so
 Other LLMs | Lec 7: Limitations of current LLMs & future direction to AGI | ** 1-1 meeting to discuss the project progress**<br>- Python project: Wrap-up codes \& Debug<br> - Report project: Half-done essay submission 
 Optional | * Poster/presentation: 5-10 mins to show your work | Submit your name by the end of Lec 7
 
+### Suggested readings
+Please see the `suggested_reading` folder. Optional and recommended for advanced students
+
 ### Python Project Descriptions
 - Choice 1: Using GPT-like models/apps to develop your own app (Advanced). Examples: [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web), [ChatBox](https://github.com/Bin-Huang/chatbox), [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
 - Choice 2: Use [Chatterbot](https://github.com/gunthercox/ChatterBot) to design your own chatbot

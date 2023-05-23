@@ -36,6 +36,9 @@ GPT \& 聊天GPT | 第3讲：OpenAI、GPT、ChatBot、\& ChatGPT 简介<br>第4.
 其他大语言模型 | 第7讲: 当前 LLM 的局限性和 AGI 的未来方向 | ** 1-1 会议讨论个人项目**<br>- Python 项目: 整理代码 \& Debug<br> - Report 项目: 阶段性文档提交
 可选 | * 海报/演示文稿：5-10 分钟展示您的作品 | 在第 7 课结束前提交您的姓名
 
+### 建议读物
+请查看 `suggested_reading` 文件夹。 可选并推荐给学习能力较强的学生
+
 ### Python 项目说明
 - 选择 1：使用类似 GPT 的模型/应用程序开发您自己的应用程序（高级）。示例：[ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)、[ChatBox](https://github.com/Bin-Huang/chatbox)、[ChatGPT Academic](https//github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
 - 选择 2：使用 [Chatterbot](https://github.com/gunthercox/ChatterBot) 设计您自己的聊天机器人
