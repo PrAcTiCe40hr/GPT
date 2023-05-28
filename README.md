@@ -48,6 +48,7 @@ Please see the `suggested_reading` folder. Optional and recommended for advanced
 
 ### Comparative Study Project Descriptions
 - Examine the ability of GPT-like models/products in a selected fields. Analyze \& compare their performances. Explore their advantages \& limitations. Foresee the path to AGI.
+- A potential publication if the report is in a high-quality
 - Any other ideas are welcome
 
 
