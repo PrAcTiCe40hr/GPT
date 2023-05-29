@@ -51,6 +51,8 @@ GPT \& 聊天GPT | 第3讲：OpenAI、GPT、ChatBot、\& ChatGPT 简介<br>第4.
 - 如果报告质量高，可能可以形成一个发表的论文
 - 欢迎任何其他想法
 
+### 项目思路
+- 请查看文档 [project_ideas.pdf](project_ideas.pdf)
 
 ## 潜在的研究/软件开发合作机会
 

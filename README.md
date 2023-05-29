@@ -39,7 +39,7 @@ Other LLMs | Lec 7: Limitations of current LLMs & future direction to AGI | ** 1
 Optional | * Poster/presentation: 5-10 mins to show your work | Submit your name by the end of Lec 7
 
 ### Suggested readings
-Please see the `suggested_reading` folder. Optional and recommended for advanced students
+Please see the [suggested_reading](suggested_reading) folder. Optional and recommended for advanced students
 
 ### Python Project Descriptions
 - Choice 1: Using GPT-like models/apps to develop your own app (Advanced). Examples: [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web), [ChatBox](https://github.com/Bin-Huang/chatbox), [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic), [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt), ...
@@ -48,9 +48,11 @@ Please see the `suggested_reading` folder. Optional and recommended for advanced
 
 ### Comparative Study Project Descriptions
 - Examine the ability of GPT-like models/products in a selected fields. Analyze \& compare their performances. Explore their advantages \& limitations. Foresee the path to AGI.
-- A potential publication if the report is in a high-quality
+- A potential publication if the report is in a high-quality. 
 - Any other ideas are welcome
 
+### Project ideas
+Please see the document [project_ideas.pdf](project_ideas.pdf)
 
 ## Potential research/software development collaboration oppotunity
 
